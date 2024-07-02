@@ -1,0 +1,10 @@
+@tailwind base;
+@layer base {
+  body{
+    @a
+  }
+}
+
+
+@tailwind components;
+@tailwind utilities;

@@ -1,0 +1,22 @@
+@tailwind base;
+@layer base {
+  body{
+    @apply min-h-screen bg-gray-100;
+  }
+}
+
+
+@tailwind components;
+@layer components{
+  input{
+
+  }
+  .pageTemplate1{
+    
+  }
+}
+
+
+
+
+@tailwind utilities;

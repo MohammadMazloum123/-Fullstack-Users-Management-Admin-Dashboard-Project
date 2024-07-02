@@ -1,0 +1,15 @@
+@tailwind base;
+@layer base {
+  body{
+    @apply min-h-screen bg-gray-100;
+  }
+}
+
+
+@tailwind components;
+
+
+
+
+
+@tailwind utilities;

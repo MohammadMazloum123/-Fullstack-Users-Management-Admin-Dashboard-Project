@@ -1,0 +1,10 @@
+@tailwind base;
+@layer base {
+  body{
+    @apply min-h-screen bg-g
+  }
+}
+
+
+@tailwind components;
+@tailwind utilities;
